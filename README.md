@@ -4,7 +4,7 @@
 
 ### Fullstack Developer · TypeScript + Python · Learning Golang
 
-*Building things at **OpenArchitects** · Somewhere down the road 📍*
+*Building things at **Open Architects** · Somewhere down the road 📍*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/john-wilfred-montilde)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wilfredjohnmontilde19@gmail.com)
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 Building things at **OpenArchitects**
+- 🏢 Building things at **Open Architects**
 - 🌱 Currently leveling up my **Go** and **Vue** skills
 - 💬 Ask me about **Python/Flask, Angular, TypeScript, Docker, and real-time systems**
 - 📍 Somewhere down the road
