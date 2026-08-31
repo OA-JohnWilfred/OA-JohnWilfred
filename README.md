@@ -89,9 +89,9 @@
 
 <div align="center">
 
-*Thanks for visiting! Let's build something great together. 🚀*
+*Thanks for visiting! [Let's learn AI/LLM together](https://night-shift-app.onrender.com/welcome). 🚀*
 
-[Let's learn together](https://night-shift-app.onrender.com/welcome)
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=OA-JohnWilfred&color=brightgreen&style=flat-square)
 
